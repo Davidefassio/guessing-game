@@ -13,3 +13,10 @@ The score `g` is the number of guesses needed to match the hidden word.
 
 ## Question
 Given n and L determine the optimal average score using only deterministic strategies.
+
+## Known results
+### n = 1
+L = 1 => g = 1
+### n = 2
+L = 1 => g = 1.5
+L = 2 => g = 1.5
