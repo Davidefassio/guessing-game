@@ -20,3 +20,7 @@ Given n and L determine the optimal average score using only deterministic strat
 ### n = 2
  - L = 1 => g = 1.5
  - L = 2 => g = 1.5
+### n = 3
+ - L = 1 => g = 2
+ - L = 2 => g = 2.1666...
+ - L = 3 => g = 
