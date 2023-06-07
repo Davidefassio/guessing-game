@@ -15,4 +15,4 @@ The score `g` is the number of guesses needed to match the hidden word.
 Given n and L determine the optimal average score using only deterministic strategies.
 
 ## Known results
-In file [naive_results.txt] the are the known results. n by row, L by column.
+In file [naive_results.txt](naive_results.txt) the are the known results. n by row, L by column.
